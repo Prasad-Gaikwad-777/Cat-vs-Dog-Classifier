@@ -109,4 +109,13 @@ A deep learning project that classifies images into two categories: **Cats** and
 
 ---
 
-# 💡 Feel free to fork, star ⭐, or contribute to this project. Let’s connect and build amazing projects together!
+![streamlit app interface](https://github.com/user-attachments/assets/792e8080-c70d-45d7-b9ee-ffb47a7649ed)
+
+---
+---
+
+![Streamlit app output](https://github.com/user-attachments/assets/83d38f93-21f0-4b8b-8518-a5493be937b8)
+
+
+
+# 💡 Feel free to fork and star ⭐, Let’s Connect and Build Amazing Projects Together!
