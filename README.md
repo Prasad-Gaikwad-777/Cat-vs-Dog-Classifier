@@ -103,19 +103,23 @@ A deep learning project that classifies images into two categories: **Cats** and
 
 ## 🙏 Acknowledgments
 
-- ***Kaggle*** for providing the Dogs vs Cats Dataset.
-- ***TensorFlow/Keras*** for their robust machine learning framework.
-- ***Streamlit** for its simplicity in creating interactive applications.
+- **Kaggle** for providing the Dogs vs Cats Dataset.
+- **TensorFlow/Keras** for their robust machine learning framework.
+- **Streamlit** for its simplicity in creating interactive applications.
 
 ---
+
+# Streamlit App Interface:
 
 ![streamlit app interface](https://github.com/user-attachments/assets/792e8080-c70d-45d7-b9ee-ffb47a7649ed)
 
 ---
 ---
+# Streamlit App Output:
 
 ![Streamlit app output](https://github.com/user-attachments/assets/83d38f93-21f0-4b8b-8518-a5493be937b8)
 
 
+---
 
 # 💡 Feel free to fork and star ⭐, Let’s Connect and Build Amazing Projects Together!
